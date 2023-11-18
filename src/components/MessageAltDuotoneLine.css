@@ -1,0 +1,32 @@
+.message-alt-duotone-line-child {
+  position: absolute;
+  height: 55.66%;
+  width: 72.26%;
+  top: 22.26%;
+  right: 13.96%;
+  bottom: 22.08%;
+  left: 13.77%;
+  border-radius: var(--br-11xs);
+  background-color: var(--duotone);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.message-alt-duotone-line-item {
+  position: absolute;
+  height: 37.55%;
+  width: 66.6%;
+  top: 37.55%;
+  right: 16.79%;
+  bottom: 24.91%;
+  left: 16.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.message-alt-duotone-line {
+  position: absolute;
+  top: 5px;
+  left: 16px;
+  width: 53px;
+  height: 53px;
+}

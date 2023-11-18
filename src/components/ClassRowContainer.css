@@ -1,0 +1,73 @@
+.class-row-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-200);
+  box-shadow: 7px 9px 9px -2px rgba(0, 0, 0, 0.4);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1685px;
+  height: 68px;
+}
+.cs-elective-14,
+.csc-04132,
+.div180,
+.w-600p- {
+  position: absolute;
+  top: 24px;
+  display: inline-block;
+  width: 135px;
+}
+.csc-04132 {
+  left: 53px;
+  font-weight: 600;
+  color: var(--color-indianred-100);
+}
+.cs-elective-14,
+.div180,
+.w-600p- {
+  left: 289px;
+  font-weight: 500;
+}
+.cs-elective-14,
+.w-600p- {
+  left: 502px;
+  width: 527px;
+  height: 24px;
+}
+.w-600p- {
+  top: 26px;
+  left: 1020px;
+  font-weight: 600;
+  width: 385px;
+}
+.group-icon,
+.xlsx-icon1 {
+  position: absolute;
+  top: 17px;
+  left: 1538px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.group-icon {
+  height: 51.91%;
+  width: 2.3%;
+  top: 24.26%;
+  right: 9.54%;
+  bottom: 23.82%;
+  left: 88.16%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.class-row {
+  position: relative;
+  width: 1685px;
+  height: 68px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

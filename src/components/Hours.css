@@ -1,0 +1,61 @@
+.card-hours-down,
+.card-hours-up {
+  position: absolute;
+  height: 41.5%;
+  width: 58.39%;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+}
+.card-hours-down {
+  top: 84.25%;
+  right: -16.78%;
+  bottom: -25.75%;
+  left: 58.39%;
+  background: radial-gradient(50% 50%at 50% 50%, #292929 10.85%, #3e3e3e 83.1%);
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.card-hours-up {
+  top: -0.22%;
+  right: 41.61%;
+  bottom: 58.72%;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #585858 10.85%, #3e3e3e 83.1%);
+}
+.icon1 {
+  height: 53.81%;
+  width: 42.32%;
+  top: 14.73%;
+  right: 49.02%;
+  bottom: 31.46%;
+  left: 8.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hours,
+.icon1,
+.pm {
+  position: absolute;
+}
+.pm {
+  height: 9.2%;
+  width: 11.14%;
+  top: 70.35%;
+  left: 3.27%;
+  line-height: 0%;
+  display: none;
+  background: linear-gradient(180deg, #fff, #bcbcbc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  align-items: center;
+}
+.hours {
+  top: 0.5px;
+  left: 0;
+  box-shadow: var(--shadow-clock);
+  width: 367px;
+  height: 226px;
+  text-align: left;
+  font-size: var(--header-2-size);
+  font-family: var(--header-2);
+}

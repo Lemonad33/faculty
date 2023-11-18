@@ -1,0 +1,91 @@
+.print-button-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-brown);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 269.1px;
+  height: 60px;
+}
+.print3 {
+  position: absolute;
+  top: 13px;
+  left: 90px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 153px;
+  height: 34px;
+}
+.print-icon3 {
+  position: absolute;
+  height: 67%;
+  width: 16.35%;
+  top: 19.17%;
+  right: 63.77%;
+  bottom: 13.83%;
+  left: 19.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.download-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumseagreen-300);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 269.1px;
+  height: 60px;
+}
+.download {
+  position: absolute;
+  top: 16px;
+  left: 71px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 195px;
+  height: 29px;
+}
+.download-button,
+.submit-to-email-item {
+  position: relative;
+  width: 269.1px;
+  height: 60px;
+}
+.submit-to-email-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.submit-to-email1 {
+  position: relative;
+  width: 269.1px;
+  height: 60px;
+  font-size: var(--font-size-xl);
+}
+.print-button-parent {
+  position: absolute;
+  top: 76px;
+  left: 1631px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

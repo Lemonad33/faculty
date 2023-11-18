@@ -1,0 +1,63 @@
+.div154 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 108px;
+}
+.com-lab-429,
+.cs-elective-229,
+.csc-01231-429,
+.div155,
+.m-600p-29 {
+  position: absolute;
+  top: 0;
+  left: 230px;
+  font-weight: 500;
+  display: inline-block;
+  width: 132px;
+}
+.com-lab-429,
+.cs-elective-229,
+.div155,
+.m-600p-29 {
+  left: 465px;
+  width: 188px;
+}
+.com-lab-429,
+.div155,
+.m-600p-29 {
+  left: 705px;
+  width: 208px;
+}
+.com-lab-429,
+.div155 {
+  left: 908px;
+  font-weight: 600;
+  width: 123px;
+}
+.div155 {
+  left: 1059px;
+  font-weight: 500;
+  width: 109px;
+}
+.row {
+  position: relative;
+  width: 1168px;
+  height: 24px;
+}
+.row-classes {
+  position: absolute;
+  top: 522px;
+  left: 271px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}

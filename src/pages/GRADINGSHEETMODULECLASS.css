@@ -1,0 +1,439 @@
+.bg-background-icon1 {
+  position: absolute;
+  top: 370px;
+  left: 195px;
+  width: 1685px;
+  height: 686px;
+}
+.bscs14,
+.div66,
+.div67,
+.div68,
+.student-name-15 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 108px;
+}
+.bscs14,
+.div67,
+.div68,
+.student-name-15 {
+  left: 158px;
+  width: 160px;
+}
+.bscs14,
+.div68,
+.student-name-15 {
+  top: 6px;
+  left: 1066px;
+  width: 109px;
+}
+.bscs14,
+.student-name-15 {
+  left: 907px;
+  width: 139px;
+}
+.student-name-15 {
+  top: 3px;
+  left: 488px;
+  width: 267px;
+}
+.student-row-grade-child {
+  position: absolute;
+  top: 0;
+  left: 1201px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 137px;
+  height: 40px;
+}
+.systemarrow-down-s-line-icon1 {
+  position: absolute;
+  top: 6px;
+  left: 1303px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.student-row-grade-item {
+  position: absolute;
+  top: 0;
+  left: 1377px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 277px;
+  height: 40px;
+}
+.student-row-grade25 {
+  position: relative;
+  width: 1654px;
+  height: 40px;
+}
+.student-row-grade-group {
+  position: absolute;
+  top: 391px;
+  left: 204px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+  color: var(--color-darkslategray);
+}
+.metadata-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumseagreen-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.64), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1685px;
+  height: 46px;
+}
+.count1,
+.student-no1 {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  font-weight: 500;
+  display: inline-block;
+  width: 108px;
+}
+.student-no1 {
+  left: 168px;
+  width: 160px;
+}
+.college1,
+.final-grade1,
+.remarks1,
+.student-name1,
+.year1 {
+  position: absolute;
+  top: 15px;
+  left: 1076px;
+  font-weight: 500;
+  display: inline-block;
+  width: 109px;
+}
+.college1,
+.final-grade1,
+.remarks1,
+.student-name1 {
+  left: 917px;
+  width: 139px;
+}
+.final-grade1,
+.remarks1,
+.student-name1 {
+  top: 12px;
+  left: 498px;
+  width: 267px;
+}
+.final-grade1,
+.remarks1 {
+  top: 11px;
+  left: 1423px;
+  width: 189px;
+}
+.final-grade1 {
+  top: 12px;
+  left: 1209px;
+  width: 139px;
+}
+.metadata1 {
+  position: absolute;
+  top: 324px;
+  left: 194px;
+  width: 1685px;
+  height: 46px;
+  color: var(--color-mistyrose);
+}
+.report-of-grades {
+  position: absolute;
+  top: 59px;
+  left: 723px;
+  font-size: var(--font-size-21xl);
+  font-weight: 900;
+  color: var(--color-red);
+  display: inline-block;
+  width: 649px;
+  height: 47px;
+}
+.reminders {
+  position: absolute;
+  top: 20px;
+  left: 177px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  color: #0139ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 145px;
+  height: 24px;
+}
+.please-take-note {
+  margin-bottom: 0;
+}
+.please-take-note-that-once-you {
+  margin: 0;
+  padding-left: var(--padding-mid);
+}
+.button-you-can {
+  margin: 0;
+}
+.please-take-note-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.please-take-note-container {
+  position: absolute;
+  top: 47px;
+  left: 194px;
+  font-size: var(--font-inherit);
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 400px;
+}
+.i {
+  font-weight: 500;
+}
+.acceptable-grades-100-container {
+  position: absolute;
+  top: 105px;
+  left: 776px;
+  font-size: var(--font-size-smi);
+  display: flex;
+  align-items: center;
+  width: 510px;
+}
+.all-final-grade-container,
+.request-for-grade-container {
+  position: absolute;
+  top: 82px;
+  left: 194px;
+  font-size: var(--font-inherit);
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 410px;
+}
+.all-final-grade-container {
+  top: 117px;
+}
+.print-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-brown);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 233px;
+  height: 47px;
+}
+.span2 {
+  font-size: var(--font-size-11xl);
+}
+.print1 {
+  position: absolute;
+  top: 7px;
+  left: 64px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 140.4px;
+  height: 28.5px;
+}
+.print-icon1 {
+  position: absolute;
+  height: 72.13%;
+  width: 14.51%;
+  top: 11.7%;
+  right: 62.53%;
+  bottom: 16.17%;
+  left: 22.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.print-button1 {
+  position: absolute;
+  top: 112px;
+  left: 1625px;
+  width: 233px;
+  height: 47px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.submit-to-email-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 233px;
+  height: 48px;
+}
+.submit-grades {
+  position: absolute;
+  top: 12.8px;
+  left: 57.8px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 165.1px;
+  height: 23.2px;
+}
+.submit-to-email {
+  position: absolute;
+  top: 168px;
+  left: 1625px;
+  width: 233px;
+  height: 48px;
+  color: var(--color-white);
+}
+.side-bar-menu-child16 {
+  position: absolute;
+  top: -26px;
+  left: -30px;
+  width: 208px;
+  height: 1140px;
+}
+.plm-logo-with-header-1-icon5 {
+  position: absolute;
+  top: 32px;
+  left: 23px;
+  width: 97px;
+  height: 91px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.sign-in-squre-icon5 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.link38 {
+  position: absolute;
+  top: 1012px;
+  left: 3px;
+  border-radius: var(--br-5xs);
+  width: 145px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+}
+.side-bar-menu-child17,
+.side-bar-menu-child18,
+.side-bar-menu-child19,
+.side-bar-menu-child20 {
+  position: absolute;
+  top: 143.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-lightgray-200);
+  box-sizing: border-box;
+  width: 149px;
+  height: 1px;
+}
+.side-bar-menu-child18,
+.side-bar-menu-child19,
+.side-bar-menu-child20 {
+  top: 582.5px;
+}
+.side-bar-menu-child19,
+.side-bar-menu-child20 {
+  top: 670.5px;
+}
+.side-bar-menu-child20 {
+  top: 995.5px;
+}
+.systemdashboard-line-icon4 {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link39 {
+  border-radius: var(--br-5xs);
+  width: 59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.folder-search-icon4 {
+  position: relative;
+  width: 35px;
+  height: 35px;
+}
+.link-parent1,
+.link44,
+.link45 {
+  width: 59px;
+  display: flex;
+  justify-content: flex-start;
+}
+.link44 {
+  border-radius: var(--br-5xs);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+}
+.link-parent1,
+.link45 {
+  position: absolute;
+  left: 40px;
+}
+.link-parent1 {
+  top: 184px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.link45 {
+  top: 598px;
+  border-radius: var(--br-5xs);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.side-bar-menu4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 148px;
+  height: 1080px;
+}
+.grading-sheet-module-class {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

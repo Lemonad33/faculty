@@ -1,0 +1,217 @@
+.email-address-input-child {
+  position: absolute;
+  top: 41.6px;
+  left: 0;
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 304.7px;
+  height: 36.7px;
+}
+.email-address1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 147.3px;
+  height: 29.4px;
+}
+.civil-status1,
+.email-address-input1,
+.mobile-phone-input1 {
+  position: absolute;
+  top: 0;
+  left: 1013.7px;
+  width: 304.7px;
+  height: 78.3px;
+}
+.civil-status1,
+.mobile-phone-input1 {
+  left: 675.8px;
+}
+.civil-status1 {
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 119.6px;
+  height: 29.4px;
+}
+.civil-status-input1,
+.gender1 {
+  position: absolute;
+  top: 0;
+  left: 337.9px;
+  width: 304.7px;
+  height: 78.3px;
+}
+.gender1 {
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 83.1px;
+  height: 29.4px;
+}
+.country1,
+.gender-input1,
+.third-row-inputs1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 304.7px;
+  height: 78.3px;
+}
+.country1,
+.third-row-inputs1 {
+  top: 205.5px;
+  left: 0.3px;
+  width: 1318.3px;
+}
+.country1 {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 90.8px;
+  height: 29.4px;
+}
+.country-input1 {
+  position: absolute;
+  top: 0.4px;
+  left: 1014px;
+  width: 304.7px;
+  height: 78.3px;
+}
+.birth-place-province1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 263.7px;
+  height: 29.4px;
+}
+.birth-place-input1,
+.birthdate1 {
+  position: absolute;
+  top: 0.4px;
+  left: 676.1px;
+  width: 304.7px;
+  height: 78.3px;
+}
+.birthdate1 {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 101.9px;
+  height: 29.4px;
+}
+.birthdate-input1 {
+  position: absolute;
+  top: 0.4px;
+  left: 338.2px;
+  width: 304.7px;
+  height: 78.3px;
+}
+.student-no-input-child,
+.student-no-input-item {
+  position: absolute;
+  top: 41.9px;
+  left: 0.3px;
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 88.6px;
+  height: 36.7px;
+}
+.student-no-input-item {
+  left: 118.8px;
+  width: 132.9px;
+}
+.employee-number1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 204px;
+  height: 30px;
+}
+.student-no-input-inner {
+  position: absolute;
+  top: 60.4px;
+  left: 95.1px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 17.6px;
+  height: 1px;
+}
+.maiden-name2,
+.second-row-inputs3,
+.student-no-input1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 251.8px;
+  height: 78.6px;
+}
+.maiden-name2,
+.second-row-inputs3 {
+  top: 102.4px;
+  width: 1318.6px;
+}
+.maiden-name2 {
+  top: 0;
+  display: flex;
+  align-items: center;
+  width: 148.4px;
+  height: 29.4px;
+}
+.maiden-name-input1 {
+  position: absolute;
+  top: 0;
+  left: 1351.5px;
+  width: 304.7px;
+  height: 78.3px;
+}
+.extension-name1,
+.first-name2,
+.last-name2,
+.middle-name2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 170.6px;
+  height: 29.4px;
+}
+.first-name2,
+.last-name2,
+.middle-name2 {
+  width: 142.9px;
+}
+.first-name2,
+.last-name2 {
+  width: 118.5px;
+}
+.last-name2 {
+  width: 115.2px;
+}
+.first-row-inputs1 {
+  position: absolute;
+  top: 0;
+  left: 0.3px;
+  width: 1656.2px;
+  height: 78.3px;
+}
+.personal-details-inputs1 {
+  position: absolute;
+  top: 115.6px;
+  left: 208px;
+  width: 1656.5px;
+  height: 283.8px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

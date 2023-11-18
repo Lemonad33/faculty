@@ -1,0 +1,46 @@
+.card-minutes-down,
+.card-minutes-up {
+  height: 49.14%;
+  width: 100%;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+}
+.card-minutes-down {
+  position: absolute;
+  top: 100%;
+  right: -100%;
+  bottom: -49.14%;
+  left: 100%;
+  background: radial-gradient(50% 50%at 50% 50%, #292929 10.85%, #3e3e3e 83.1%);
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.card-minutes-up {
+  top: 0;
+  right: 0;
+  bottom: 50.86%;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #585858 10.85%, #3e3e3e 83.1%);
+}
+.card-minutes-up,
+.icon,
+.minutes {
+  position: absolute;
+}
+.icon {
+  height: 64.01%;
+  width: 78.72%;
+  top: 17.34%;
+  right: 10.59%;
+  bottom: 18.65%;
+  left: 10.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.minutes {
+  top: 0;
+  left: 227.7px;
+  box-shadow: var(--shadow-clock);
+  width: 214.3px;
+  height: 190.9px;
+}

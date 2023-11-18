@@ -1,0 +1,456 @@
+.subject {
+  position: absolute;
+  top: 170px;
+  left: 195px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 126px;
+  height: 40px;
+}
+.subjects-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 460px;
+  height: 42px;
+}
+.cs-elective-11 {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 360px;
+  height: 40px;
+}
+.systemarrow-down-s-line-icon15 {
+  position: absolute;
+  top: 7px;
+  left: 418px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.subjects {
+  position: absolute;
+  top: 168px;
+  left: 340px;
+  width: 460px;
+  height: 42px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.search-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 135px;
+  height: 42px;
+}
+.search1 {
+  position: absolute;
+  top: 6px;
+  left: 13px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 109px;
+}
+.search-button1 {
+  position: absolute;
+  top: 168px;
+  left: 1312px;
+  width: 135px;
+  height: 42px;
+  color: var(--color-white);
+}
+.search-button-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 309px;
+  height: 42px;
+}
+.update-grades {
+  position: absolute;
+  top: 6px;
+  left: 29.8px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 249.5px;
+}
+.search-button2 {
+  position: absolute;
+  top: 404px;
+  left: 902px;
+  width: 309px;
+  height: 42px;
+  color: var(--color-white);
+}
+.student-no2 {
+  position: absolute;
+  top: 169px;
+  left: 823px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 199px;
+  height: 40px;
+}
+.div108,
+.student-nos-child {
+  position: absolute;
+  width: 207px;
+}
+.student-nos-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 42px;
+}
+.div108 {
+  top: 2px;
+  left: 23px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+.systemarrow-down-s-line-icon16 {
+  position: absolute;
+  top: 7px;
+  left: 169px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.student-nos {
+  position: absolute;
+  top: 169px;
+  left: 1033px;
+  width: 230px;
+  height: 42px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.bg-background-icon2 {
+  position: absolute;
+  top: 306px;
+  left: 191px;
+  width: 1685px;
+  height: 78px;
+}
+.bscs28,
+.cs-elective-12,
+.div109,
+.div110,
+.student-name-16 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 234px;
+}
+.bscs28,
+.div109,
+.div110,
+.student-name-16 {
+  left: 275px;
+  width: 160px;
+}
+.bscs28,
+.div110,
+.student-name-16 {
+  top: 6px;
+  left: 1066px;
+  width: 109px;
+}
+.bscs28,
+.student-name-16 {
+  left: 907px;
+  width: 139px;
+}
+.student-name-16 {
+  top: 3px;
+  left: 551px;
+  width: 267px;
+}
+.student-row-grade-child26 {
+  position: absolute;
+  top: 0;
+  left: 1201px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 137px;
+  height: 40px;
+}
+.systemarrow-down-s-line-icon17 {
+  position: absolute;
+  top: 6px;
+  left: 1303px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.student-row-grade-child27 {
+  position: absolute;
+  top: 0;
+  left: 1377px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 277px;
+  height: 40px;
+}
+.student-row-grade39 {
+  position: relative;
+  width: 1654px;
+  height: 40px;
+}
+.student-row-grade-wrapper {
+  position: absolute;
+  top: 327px;
+  left: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+}
+.metadata-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumseagreen-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.64), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1685px;
+  height: 46px;
+}
+.college2,
+.grade,
+.remarks2,
+.student-name2,
+.student-no3,
+.subject1,
+.year2 {
+  position: absolute;
+  top: 12px;
+  left: 73px;
+  font-weight: 500;
+  display: inline-block;
+  width: 108px;
+}
+.college2,
+.grade,
+.remarks2,
+.student-name2,
+.student-no3,
+.year2 {
+  left: 289px;
+  width: 160px;
+}
+.college2,
+.grade,
+.remarks2,
+.student-name2,
+.year2 {
+  top: 15px;
+  left: 1076px;
+  width: 109px;
+}
+.college2,
+.grade,
+.remarks2,
+.student-name2 {
+  left: 917px;
+  width: 139px;
+}
+.grade,
+.remarks2,
+.student-name2 {
+  top: 12px;
+  left: 561px;
+  width: 267px;
+}
+.grade,
+.remarks2 {
+  top: 11px;
+  left: 1423px;
+  width: 189px;
+}
+.grade {
+  top: 12px;
+  left: 1209px;
+  width: 139px;
+}
+.metadata2 {
+  position: absolute;
+  top: 260px;
+  left: 190px;
+  width: 1685px;
+  height: 46px;
+  font-size: var(--font-size-xl);
+  color: var(--color-mistyrose);
+}
+.side-bar-menu-child21 {
+  position: absolute;
+  top: -26px;
+  left: -30px;
+  width: 208px;
+  height: 1140px;
+}
+.plm-logo-with-header-1-icon6 {
+  position: absolute;
+  top: 32px;
+  left: 23px;
+  width: 97px;
+  height: 91px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.sign-in-squre-icon6 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.link46 {
+  position: absolute;
+  top: 1012px;
+  left: 3px;
+  border-radius: var(--br-5xs);
+  width: 145px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+}
+.side-bar-menu-child22,
+.side-bar-menu-child23,
+.side-bar-menu-child24,
+.side-bar-menu-child25 {
+  position: absolute;
+  top: 143.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-lightgray-200);
+  box-sizing: border-box;
+  width: 149px;
+  height: 1px;
+}
+.side-bar-menu-child23,
+.side-bar-menu-child24,
+.side-bar-menu-child25 {
+  top: 582.5px;
+}
+.side-bar-menu-child24,
+.side-bar-menu-child25 {
+  top: 670.5px;
+}
+.side-bar-menu-child25 {
+  top: 995.5px;
+}
+.systemdashboard-line-icon5 {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link47 {
+  border-radius: var(--br-5xs);
+  width: 59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.folder-search-icon5 {
+  position: relative;
+  width: 35px;
+  height: 35px;
+}
+.link-parent2,
+.link52,
+.link53 {
+  width: 59px;
+  display: flex;
+  justify-content: flex-start;
+}
+.link52 {
+  border-radius: var(--br-5xs);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+}
+.link-parent2,
+.link53 {
+  position: absolute;
+  left: 40px;
+}
+.link-parent2 {
+  top: 184px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.link53 {
+  top: 598px;
+  border-radius: var(--br-5xs);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.plm-cover-42,
+.side-bar-menu5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 148px;
+  height: 1080px;
+}
+.plm-cover-42 {
+  filter: blur(144px);
+  width: 1920px;
+}
+.update-grade-module {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

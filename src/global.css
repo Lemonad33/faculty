@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Koulen:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,900;1,500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --header-2: Fredoka;
+  --font-akshar: Akshar;
+  --font-koulen: Koulen;
+  --font-lato: Lato;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --header-2-size: 48px;
+  --font-size-21xl: 40px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-42xl: 61px;
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+  --font-size-26xl: 45px;
+  --font-size-smi: 13px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-whitesmoke: #f0f0f0;
+  --color-lightgray-100: #ddcfcf;
+  --color-lightgray-200: rgba(221, 207, 207, 0.2);
+  --color-white: #fff;
+  --color-mediumseagreen-100: #55af5e;
+  --color-mediumseagreen-200: #29bb87;
+  --color-mediumseagreen-300: #0ea453;
+  --color-seagreen-100: #2f8e5b;
+  --color-darkslategray: #404040;
+  --color-black: #000;
+  --color-gray-100: #919191;
+  --color-gray-200: #1b1515;
+  --color-gray-300: #0f0f0f;
+  --color-gray-400: rgba(0, 0, 0, 0.36);
+  --color-gray-500: rgba(0, 0, 0, 0.3);
+  --color-khaki-100: #eace6b;
+  --color-red: #ff0000;
+  --color-gold: #ffd700;
+  --color-darkgoldenrod: #b09500;
+  --color-maroon: #800000;
+  --color-brown: #b43a3a;
+  --color-gainsboro-100: #dee1e7;
+  --color-gainsboro-200: #d9d9d9;
+  --duotone: rgba(126, 134, 158, 0.25);
+  --color-royalblue: #3971ff;
+  --color-mistyrose: #ffe3e3;
+  --color-indianred-100: #d35a5a;
+  --color-dimgray: #585858;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-mini: 15px;
+  --gap-xs: 12px;
+  --gap-11xl: 30px;
+  --gap-2xs: 11px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+  --padding-12xs: 1px;
+  --padding-mid: 17px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-xs: 12px;
+  --br-6xl: 25px;
+  --br-11xs: 2px;
+  --br-3xs: 10px;
+
+  /* Effects */
+  --shadow-clock: 6px 6px 24px rgba(0, 0, 0, 0.5);
+}
